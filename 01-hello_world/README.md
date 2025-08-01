@@ -13,4 +13,4 @@ To clean (remove output file), run `make clean`
 Note: `make clean` does not remove the "out" output directory. See makefile for instructions to remove this directory too, if desired.
 
 ## Run
-Rum command: `out/hello` from the "01-hello_world" directory
+Run command: `out/hello` from the "01-hello_world" directory
